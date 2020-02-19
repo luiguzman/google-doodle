@@ -5,10 +5,13 @@
   * Outline Elements
 */
 
-* {
+/* {
     outline: 1px dotted black;
-}
+}*/
 
-body{
+
+#stage {
   background:url(../img/space_hd.jpg);
+  height: 300px;
+  width: 600px;
 }
