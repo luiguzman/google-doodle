@@ -12,8 +12,8 @@
 
 #stage {
   background:url(../img/space_hd.jpg);
-  height: 350px;
-  width: 600px;
+  height: 450px;
+  width: 700px;
 }
 
 h1
@@ -24,7 +24,17 @@ h1
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  font-size:90px;
+  font-size:160px;
  
 }
+#cookie{
+  fill:white;
+}
+#donut{
+  fill:white;
+}
+#loli{
+  fill:white;
+}
+
 
