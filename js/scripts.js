@@ -1,10 +1,12 @@
 gsap.to('#cookie',{
     rotation:1080,
-    duration:80
+    duration:3,
+    repeat:-1
 });
 gsap.to('#donut',{
     rotation:1080,
-    duration:80
+    duration:3,
+    repeat:-1
 });
 gsap.fromTo('#loli',{x:0,y:0},{
     x:0,
