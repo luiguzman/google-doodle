@@ -25,17 +25,41 @@
   color:white;
   
   position:absolute;
-  bottom:-170px;
+  bottom:-163px;
   left:28%;
   margin-left:-178px;
   font-size:210px;
-  word-spacing:85px;
+  
+ 
+}
+#stage h2
+{
+  color:white;
+  
+  position:absolute;
+  bottom:-198px;
+  left:78%;
+  margin-left:-178px;
+  font-size:210px;
+  
+ 
+}
+#stage h3
+{
+  color:white;
+  
+  position:absolute;
+  bottom:-231px;
+  left:101%;
+  margin-left:-178px;
+  font-size:210px;
+  
  
 }
 #cookie{
   fill:white;
   position:absolute;
-  bottom:10px;
+  bottom:30px;
 
   left:27%;
   
@@ -43,16 +67,16 @@
 #donut{
   fill:white;
   position:absolute;
-  bottom:9px;
+  bottom:30px;
 
   left:41%;
 }
 #loli{
   fill:white;
   position:absolute;
-  bottom:23px;
+  bottom:47px;
 
-  left:71%;
+  left:70%;
 }
 
 
