@@ -67,7 +67,7 @@
 #donut{
   fill:white;
   position:absolute;
-  bottom:30px;
+  bottom:40px;
 
   left:41%;
 }
@@ -77,6 +77,24 @@
   bottom:47px;
 
   left:70%;
+}
+#star{
+  fill:turquoise;
+  position:absolute;
+  top: 36px;
+  left:40%;
+}
+#star1{
+  fill:cyan;
+  position:absolute;
+  bottom:25px;
+  left:5%;
+}
+#star2{
+  fill:skyblue;
+  position:absolute;
+  left:81%;
+  top:210px;
 }
 
 
