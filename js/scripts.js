@@ -51,3 +51,47 @@ gsap.fromTo('#star2',{x:0,y:0},
     duration:2
     
 });
+gsap.to('#candy',
+{
+    x:700,
+    y:500,
+    rotation:360,
+    duration:3,
+    opacity:0,
+    delay:1,
+    
+    
+});
+gsap.to('#candy2',
+{
+    x:800,
+    y:600,
+    rotation:720,
+    duration:6,
+    opacity:0,
+    delay:2,
+    
+    
+});
+gsap.to('#candy3',
+{
+    x:300,
+    y:200,
+    rotation:720,
+    duration:3,
+    opacity:0,
+    delay:1,
+    
+    
+});
+gsap.to('#candy4',
+{
+    x:900,
+    y:500,
+    rotation:360,
+    duration:6,
+    opacity:0,
+    delay:4,
+    
+    
+});
