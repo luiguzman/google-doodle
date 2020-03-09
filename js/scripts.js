@@ -59,6 +59,8 @@ gsap.to('#candy',
     duration:3,
     opacity:0,
     delay:1,
+    repeat:-1,
+    yoyo:true,
     
     
 });
@@ -70,6 +72,8 @@ gsap.to('#candy2',
     duration:6,
     opacity:0,
     delay:2,
+    repeat:-1,
+    yoyo:true,
     
     
 });
@@ -81,6 +85,8 @@ gsap.to('#candy3',
     duration:3,
     opacity:0,
     delay:1,
+    repeat:-1,
+    yoyo:true,
     
     
 });
@@ -92,6 +98,34 @@ gsap.to('#candy4',
     duration:6,
     opacity:0,
     delay:4,
+    repeat:-1,
+    yoyo:true,
+    
+    
+});
+gsap.to('#candy5',
+{
+    x:400,
+    y:340,
+    rotation:360,
+    duration:6,
+    opacity:0,
+    delay:4,
+    repeat:-1,
+    yoyo:true,
+    
+    
+});
+gsap.to('#candy6',
+{
+    x:200,
+    y:590,
+    rotation:360,
+    duration:6,
+    opacity:0,
+    delay:4,
+    repeat:-1,
+    yoyo:true,
     
     
 });

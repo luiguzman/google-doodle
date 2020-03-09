@@ -100,23 +100,41 @@
   fill:white;
   position:absolute;
   top:-30px;
+  left:38%;
   
 }
 #candy2{
   fill:white;
   position:absolute;
   top:-30px;
+  left:9%;
   
 }
 #candy3{
   fill:white;
   position:absolute;
   top:-30px;
+  left:15%;
 }
 #candy4{
   fill:white;
   position:absolute;
   top:-30px;
+  left:28%;
+  
+}
+#candy5{
+  fill:white;
+  position:absolute;
+  top:-30px;
+  left:8%;
+  
+}
+#candy6{
+  fill:white;
+  position:absolute;
+  top:-30px;
+  left:18%;
   
 }
 
